@@ -10,7 +10,8 @@ In this project, we've built a model that can predict the resale price of produc
 3. Existing Approaches and My Approaches
 4. EDA
 5. Data Cleaning and Preprocessing
-6. ML techniques
-7. DL techniques
+6. Feature Engineering Attempts
+7. Preparing Train & Test Data
+8. Training & Testing ML and DL Models
 
 
